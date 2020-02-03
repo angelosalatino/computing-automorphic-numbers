@@ -1,6 +1,6 @@
 import time
 # Python3 program to squares a number  
-# represented as strings. 
+# represented as array. 
   
 # squares number and prints result. 
 def square(number): 
